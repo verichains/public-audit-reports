@@ -1,4 +1,4 @@
-This repo consists most of **public** audit reports from Verichains.
+This repo consists some of **public** audit reports from Verichains.
 
 Details 
 
