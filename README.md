@@ -14,7 +14,7 @@ Details
   * [Verichains Public Audit Report - Blockcelerate QuarkChain - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Blockcelerate%20QuarkChain%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - BSCex LaunchPoolX - v1.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20BSCex%20LaunchPoolX%20-%20v1.pdf)
   * [Verichains Public Audit Report - Everest Gold - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Everest%20Gold%20-%20v1.0.pdf)
-  * [Verichains Public Audit Report - Mercurial - v1.1.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Mercurial%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Mercurial - v1.2.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Mercurial%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - Roseon - v2.1.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Roseon%20-%20v2.1.pdf)
   * [Verichains Public Audit Report - Uppsala - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Uppsala%20-%20v1.0.pdf)
   
