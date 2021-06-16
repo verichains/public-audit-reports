@@ -2,7 +2,7 @@ This repo consists some of **public** security audit reports from Verichains Lab
 
 Details 
 
-  * [Verichains Public Audit Report - Kyber Network ICO - v1.1.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Kyber%20Network%20ICO%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Kyber Network IEO - v1.1.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Kyber%20Network%20ICO%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Request Network - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Request%20Network%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - TomoChain - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20TomoChain%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - IICO - v1.0.pdf](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20IICO%20-%20v1.0.pdf)
