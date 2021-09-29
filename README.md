@@ -20,4 +20,5 @@ Details
   * [Verichains Public Audit Report - Krystal - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Krystal%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Polyroll - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Polyroll%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - PocoToken - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20PocoToken%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Poco Staking - V1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Poco%20Staking%20-%20v1.1.pdf)
   * [Verichains Public Report - Xpool Deployment Review - v2.0.pdf](Verichains%20Public%20Report%20-%20Xpool%20Deployment%20Review%20-%20v2.0.pdf)
