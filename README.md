@@ -26,3 +26,4 @@ Details
   * [Verichains Public Audit Report - LaunchZone Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20LaunchZone%20Token%20-%20v1.1.pdf)
   * [Verichains Public Report - Xpool Deployment Review - v2.0.pdf](Verichains%20Public%20Report%20-%20Xpool%20Deployment%20Review%20-%20v2.0.pdf)
   * [Verichains Public Audit Report - BCoin Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20BCoin%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - HowlCity - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20HowlCity%20-%20v1.0.pdf)
