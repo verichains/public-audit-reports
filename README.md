@@ -38,3 +38,4 @@ Details
   * [Verichains Public Audit Report - NinoToken - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20NinoToken%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Cyball - v2.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Cyball%20-%20v2.2.pdf)
   * [Verichains Public Audit Report - Crabada Sale - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Crabada%20Sale%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - Crabada Game - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Crabada%20Game%20-%20v1.1.pdf)
