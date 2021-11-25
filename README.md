@@ -42,3 +42,4 @@ Details
   * [Verichains Public Audit Report - Billionaire Plus - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Billionaire%20Plus%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LordArena - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LordArena%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - ThetanArena - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20ThetanArena%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - LuaSwapIDO - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20LuaSwapIDO%20-%20v1.1.pdf)
