@@ -45,5 +45,5 @@ Details
   * [Verichains Public Audit Report - LuaSwapIDO - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20LuaSwapIDO%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Mytheria Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Mytheria%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - WingSwap Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20WingSwap%20Vesting%20-%20v1.0.pdf)
-  * [Verichains Public Audit Report - CryptoCars - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoCars%20-%20v1.1.pdf)
-  * [Verichains Public Audit Report - CryptoPlanes - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoPlanes%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - CryptoCars - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoCars%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - CryptoPlanes - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoPlanes%20-%20v1.1.pdf)
