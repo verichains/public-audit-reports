@@ -48,3 +48,4 @@ Details
   * [Verichains Public Audit Report - CryptoCars - v1.1.pdf](Verichains%20Pulbic%20Audit%20Report%20-%20CryptoCars%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - CryptoPlanes - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoPlanes%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - HeroFi Token And Reward - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20HeroFi%20Token%20And%20Reward%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Sipher Tokens and IBCO - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Sihper%20Tokens%20and%20IBCO%20-%20v1.2.pdf)
