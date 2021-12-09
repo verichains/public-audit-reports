@@ -51,3 +51,4 @@ Details
   * [Verichains Public Audit Report - Sipher Tokens and IBCO - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Sipher%20Tokens%20and%20IBCO%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - Sipher Staking - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Sipher%20Staking%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - LastSurvivor - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LastSurvivor%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Tankwars - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Tankwars%20-%20v1.0.pdf)
