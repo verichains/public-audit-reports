@@ -47,3 +47,4 @@ Details
   * [Verichains Public Audit Report - WingSwap Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20WingSwap%20Vesting%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - CryptoCars - v1.1.pdf](Verichains%20Pulbic%20Audit%20Report%20-%20CryptoCars%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - CryptoPlanes - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoPlanes%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - HeroFi Token And Reward - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20HeroFi%20Token%20And%20Reward%20-%20v1.1.pdf)
