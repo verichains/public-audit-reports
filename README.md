@@ -54,4 +54,5 @@ Details
   * [Verichains Public Audit Report - Tankwars - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Tankwars%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Elemon - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Elemon%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - F2NFT - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20F2NFT%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - TheParallel - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20TheParallel%20-%20v1.1.pdf)
   
