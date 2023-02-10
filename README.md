@@ -190,3 +190,4 @@ Details
   * [Verichains Public Audit Report - Koakuma Token v2 - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Koakuma%20Token%20v2%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Konverter Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Konverter%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - LeisureMeta Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LeisureMeta%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - DPeg Protocol Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DPeg%20Protocol%20Smartcontracts%20-%20v1.1.pdf)
