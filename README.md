@@ -196,3 +196,4 @@ Details
   * [Verichains Public Audit Report - PandExchange Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20PandExchange%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Octan Soulbound Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Octan%20Soulbound%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - KartBox Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20KartBox%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - NF3X Smartcontracts - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20NF3X%20Smartcontracts%20-%20v1.2.pdf)
