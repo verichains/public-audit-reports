@@ -199,4 +199,6 @@ Details
   * [Verichains Public Audit Report - NF3X Smartcontracts - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20NF3X%20Smartcontracts%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - RowGame Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20RowGame%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LSTrade Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LSTrade%20Smartcontracts%20-%20v1.0.pdf)
+  * [VSA-2022-120 Multichain: Key Extraction Vulnerability in fastMPC Secure Multi-Party Client](%5BVSA-2022-120%5D%20Multichain%3A%20Key%20Extraction%20Vulnerability%20in%20fastMPC%20Secure%20Multi-Party%20Client.pdf)
+
 
