@@ -203,3 +203,4 @@ Details
   * [Verichains Public Advisory - VSA-2022-120 - Multichain Key Extraction Vulnerability in fastMPC Secure Multi-Party Client](VSA-2022-120_Multichain_Key_Extraction_Vulnerability_in_fastMPC.pdf)
   * [Verichains Public Audit Report - Tioswap Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Tioswap%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - KatanaInu NFT System - v1.0](Verichains%20Public%20Audit%20Report%20-%20KatanaInu%20NFT%20System%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - MultiplierBox Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20MultiplierBox%20Smartcontracts%20-%20v1.0.pdf)
