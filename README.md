@@ -205,3 +205,4 @@ Details
   * [Verichains Public Audit Report - KatanaInu NFT System - v1.0](Verichains%20Public%20Audit%20Report%20-%20KatanaInu%20NFT%20System%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - MultiplierBox Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20MultiplierBox%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - PeopleTelco Smartcontracts - v1.2](Verichains%20Public%20Audit%20Report%20-%20PeopleTelco%20Smartcontracts%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - CapShort Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20CapShort%20Smartcontracts%20-%20v1.1.pdf)
