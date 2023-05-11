@@ -206,3 +206,4 @@ Details
   * [Verichains Public Audit Report - MultiplierBox Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20MultiplierBox%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - PeopleTelco Smartcontracts - v1.2](Verichains%20Public%20Audit%20Report%20-%20PeopleTelco%20Smartcontracts%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - CapShort Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20CapShort%20Smartcontracts%20-%20v1.1.pdf)
+  * [Verichains Draft Audit Report - HoldStation Dex - v1.0](Verichains%20Draft%20Audit%20Report%20-%20HoldStation%20Dex%20-%20v1.0.pdf)
