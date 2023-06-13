@@ -211,3 +211,4 @@ Details
   * [Verichains Public Audit Report - MiLady Meme Coin Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20MiLady%20Meme%20Coin%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Belaunch Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20Belaunch%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Orakl Smartcontracts - v1.3](Verichains%20Public%20Audit%20Report%20-%20Orakl%20Smartcontracts%20-%20v1.3.pdf)
+  * [Verichains Public Audit Report - World Beyond Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20World%20Beyond%20Smartcontracts%20-%20v1.1.pdf)
