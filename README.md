@@ -214,3 +214,4 @@ Details
   * [Verichains Public Audit Report - World Beyond Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20World%20Beyond%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - NemoSwap Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20NemoSwap%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - ArenaPixel Token - v1.1](Verichains%20Public%20Audit%20Report%20-%20ArenaPixel%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - LeisureMeta Token Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20LeisureMeta%20Token%20Smartcontracts%20-%20v1.1.pdf)
