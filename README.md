@@ -216,4 +216,5 @@ Details
   * [Verichains Public Audit Report - ArenaPixel Token - v1.1](Verichains%20Public%20Audit%20Report%20-%20ArenaPixel%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - LeisureMeta Token Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20LeisureMeta%20Token%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - AVT Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20AVT%20Smartcontracts%20-%20v1.0.pdf)
-  * [Verichains Public Audit Report - Dexynth Smartcontracts v1.0](Verichains%20Public%20Audit%20Report%20-%20Dexynth%20Smartcontracts%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Dexynth Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20Dexynth%20Smartcontracts%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - U2Win Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20U2Win%20Smartcontracts%20-%20v1.0.pdf)
