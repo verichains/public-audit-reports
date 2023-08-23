@@ -223,3 +223,4 @@ Details
   * [Verichains Public Audit Report - RENEC Oracle and PeggedFiat - v1.0](Verichains%20Public%20Audit%20Report%20-%20RENEC%20Oracle%20and%20PeggedFiat%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Lotty Staking - v1.1](Verichains%20Public%20Audit%20Report%20-%20Lotty%20Staking%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Leisure Meta Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20Leisure%20Meta%20Smartcontracts%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Mirakle Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20Mirakle%20Smartcontracts%20-%20v1.1.pdf)
