@@ -224,3 +224,4 @@ Details
   * [Verichains Public Audit Report - Lotty Staking - v1.1](Verichains%20Public%20Audit%20Report%20-%20Lotty%20Staking%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Leisure Meta Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20Leisure%20Meta%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Mirakle Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20Mirakle%20Smartcontracts%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - HoldStation Defutures - v1.4](Verichains%20Public%20Audit%20Report%20-%20HoldStation%20Defutures%20-%20v1.4.pdf)
