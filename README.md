@@ -227,3 +227,4 @@ Details
   * [Verichains Public Audit Report - HoldStation Defutures - v1.4](Verichains%20Public%20Audit%20Report%20-%20HoldStation%20Defutures%20-%20v1.4.pdf)
   * [Verichains Public Audit Report - FunArcade Token - v1.1](Verichains%20Public%20Audit%20Report%20-%20FunArcade%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - GVSToken - v1.0](Verichains%20Public%20Audit%20Report%20-%20GVSToken%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - FlowX Swap - v1.1](Verichains%20Public%20Audit%20Report%20-%20FlowX%20Swap%20-%20v1.1.pdf)
