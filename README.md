@@ -231,3 +231,4 @@ Details
   * [Verichains Public Audit Report - SpotOnChain Wallet - v1.2](Verichains%20Public%20Audit%20Report%20-%20SpotOnChain%20Wallet%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - U2U Bridge Smartcontracts - v1.1](Verichains%20Public%20Audit%20Report%20-%20U2U%20Bridge%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - SenSwap - v1.0](Verichains%20Public%20Audit%20Report%20-%20SenSwap%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - GPTVerse Token - v1.1](Verichains%20Public%20Audit%20Report%20-%20GPTVerse%20Token%20-%20v1.1.pdf)
