@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "coinId": 35701,
+      "auditor": "Verichains",
+      "auditStatus": 2,
+      "reportUrl": "https://verichains.io/?search=gohome"
+    },
+    {
       "coinId": 34420,
       "auditor": "Verichains",
       "auditStatus": 2,
